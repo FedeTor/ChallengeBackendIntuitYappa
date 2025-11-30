@@ -31,7 +31,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend", policy =>
     {
         policy
-            .WithOrigins("https://challengeintuit.torancio.com")
+            .WithOrigins("https://challengeintuit.torancio.com") 
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
