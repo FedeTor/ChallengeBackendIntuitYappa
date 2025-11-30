@@ -1,0 +1,3 @@
+2025-11-30 01:02:08.185 -03:00 [INF] Iniciando Clientes API
+2025-11-30 01:02:08.995 -03:00 [INF] Aplicación arrancando...
+2025-11-30 01:02:23.021 -03:00 [INF] Recuperando listado completo de clientes
