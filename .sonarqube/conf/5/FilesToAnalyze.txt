@@ -1,0 +1,16 @@
+﻿C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\CreateCliente\CreateClienteCommand.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\CreateCliente\CreateClienteCommandHandler.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\DeleteCliente\DeleteClienteCommand.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\DeleteCliente\DeleteClienteCommandHandler.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\UpdateCliente\UpdateClienteCommand.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\UpdateCliente\UpdateClienteCommandHandler.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Exceptions\ClienteConflictException.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Exceptions\ClienteNotFoundException.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Interfaces\IClienteReadRepository.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Interfaces\IClienteWriteRepository.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\GetAllClientes\GetAllClientesQuery.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\GetAllClientes\GetAllClientesQueryHandler.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\GetClienteById\GetClienteByIdQuery.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\GetClienteById\GetClienteByIdQueryHandler.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\SearchClientesByName\SearchClientesByNameQuery.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\SearchClientesByName\SearchClientesByNameQueryHandler.cs

@@ -1,0 +1,581 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.8.0.0",
+        "fileVersion": "4.8.0-3.23524.11 (f43cd10b)",
+        "semanticVersion": "4.8.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Posible argumento de referencia nulo para el parámetro \"value\" en \"DateOnly ClienteReadRepository.ToDateOnly(object value)\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 196,
+                  "startColumn": 42,
+                  "endLine": 196,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Posible argumento de referencia nulo para el parámetro \"value\" en \"DateOnly ClienteWriteRepository.ToDateOnly(object value)\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 268,
+                  "startColumn": 42,
+                  "endLine": 268,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/DatabaseSeeder.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 30,
+                  "endLine": 34,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/DatabaseSeeder.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 24,
+                  "endLine": 36,
+                  "endColumn": 86
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/DatabaseSeeder.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 17,
+                  "endLine": 37,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 26,
+                  "endLine": 73,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 13,
+                  "endLine": 75,
+                  "endColumn": 72
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 13,
+                  "endLine": 76,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 34,
+                  "endLine": 78,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 13,
+                  "endLine": 80,
+                  "endColumn": 94
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 13,
+                  "endLine": 88,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 26,
+                  "endLine": 90,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 13,
+                  "endLine": 92,
+                  "endColumn": 86
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 13,
+                  "endLine": 93,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 26,
+                  "endLine": 127,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 129,
+                  "startColumn": 13,
+                  "endLine": 129,
+                  "endColumn": 80
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 130,
+                  "startColumn": 13,
+                  "endLine": 130,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 180,
+                  "startColumn": 26,
+                  "endLine": 180,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 182,
+                  "startColumn": 13,
+                  "endLine": 182,
+                  "endColumn": 89
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteReadRepository.cs",
+                "region": {
+                  "startLine": 183,
+                  "startColumn": 13,
+                  "endLine": 183,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 34,
+                  "endLine": 146,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 13,
+                  "endLine": 148,
+                  "endColumn": 92
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 161,
+                  "startColumn": 13,
+                  "endLine": 161,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 167,
+                  "startColumn": 26,
+                  "endLine": 167,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 169,
+                  "startColumn": 13,
+                  "endLine": 169,
+                  "endColumn": 84
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 13,
+                  "endLine": 170,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 204,
+                  "startColumn": 34,
+                  "endLine": 204,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 206,
+                  "startColumn": 13,
+                  "endLine": 206,
+                  "endColumn": 90
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 213,
+                  "startColumn": 13,
+                  "endLine": 213,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 219,
+                  "startColumn": 26,
+                  "endLine": 219,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 221,
+                  "startColumn": 13,
+                  "endLine": 221,
+                  "endColumn": 82
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/LENOVO/Desktop/Challenge%20Intui/backend/clientes/src/Clientes/Clientes.Infrastructure/Repositories/ClienteWriteRepository.cs",
+                "region": {
+                  "startLine": 222,
+                  "startColumn": 13,
+                  "endLine": 222,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Posible argumento de referencia nulo",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S2139": {
+          "id": "S2139",
+          "shortDescription": "Exceptions should be either logged or rethrown but not both",
+          "fullDescription": "When an exception is logged and rethrown, the upstream code may not be aware that the exception has already been logged. As a result, the same exception gets logged multiple times, making it difficult to identify the root cause of the issue. This can be particularly problematic in multi-threaded applications where messages from other threads can be interwoven with the repeated log entries.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2139",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

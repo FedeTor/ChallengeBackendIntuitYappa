@@ -1,0 +1,1 @@
+|RfC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\Clientes.Api.csproj¢net8.0òCSharp12

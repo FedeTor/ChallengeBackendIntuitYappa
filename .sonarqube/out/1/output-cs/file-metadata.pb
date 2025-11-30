@@ -1,0 +1,20 @@
+ú
+êC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\obj\Debug\net8.0\Clientes.Application.AssemblyInfo.csutf-8¶
+öC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8û
+íC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\obj\Debug\net8.0\Clientes.Application.GlobalUsings.g.csutf-8Æ
+§C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\SearchClientesByName\SearchClientesByNameQueryHandler.csutf-8ß
+ùC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\SearchClientesByName\SearchClientesByNameQuery.csutf-8¢
+òC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\GetClienteById\GetClienteByIdQueryHandler.csutf-8õ
+ëC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\GetClienteById\GetClienteByIdQuery.csutf-8¢
+òC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\GetAllClientes\GetAllClientesQueryHandler.csutf-8õ
+ëC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Queries\GetAllClientes\GetAllClientesQuery.csutf-8ì
+âC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Interfaces\IClienteWriteRepository.csutf-8í
+àC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Interfaces\IClienteReadRepository.csutf-8î
+äC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Exceptions\ClienteNotFoundException.csutf-8î
+äC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Exceptions\ClienteConflictException.csutf-8£
+ôC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\UpdateCliente\UpdateClienteCommandHandler.csutf-8ú
+íC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\UpdateCliente\UpdateClienteCommand.csutf-8£
+ôC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\DeleteCliente\DeleteClienteCommandHandler.csutf-8ú
+íC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\DeleteCliente\DeleteClienteCommand.csutf-8£
+ôC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\CreateCliente\CreateClienteCommandHandler.csutf-8ú
+íC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Application\Clientes\Commands\CreateCliente\CreateClienteCommand.csutf-8

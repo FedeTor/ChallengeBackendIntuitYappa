@@ -1,0 +1,1 @@
+‚RlC:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Domain\Clientes.Domain.csproj¢net8.0òCSharp12

@@ -1,0 +1,25 @@
+# Build
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio user-specific
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Generated files
+/**/*.csproj.user
+
+# Visual Studio cache
+.vs/
+
+
+# Configuration
+**/appsettings.Development.json
+.env
+.env.*
+!.env.example

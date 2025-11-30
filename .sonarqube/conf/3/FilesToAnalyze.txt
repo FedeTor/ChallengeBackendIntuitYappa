@@ -1,0 +1,13 @@
+﻿C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\Controllers\ClientesController.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\Mappings\ClienteMappings.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\Models\ClienteResponse.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\Models\CreateClienteRequest.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\Models\UpdateClienteRequest.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\Program.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\obj\Debug\net8.0\Clientes.Api.GlobalUsings.g.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\obj\Debug\net8.0\Clientes.Api.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\obj\Debug\net8.0\Clientes.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\appsettings.json
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\Clientes.Api.http
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Api\Properties\launchSettings.json

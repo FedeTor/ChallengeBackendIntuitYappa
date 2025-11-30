@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Clientes.Tests": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

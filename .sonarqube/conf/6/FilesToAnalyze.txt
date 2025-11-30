@@ -1,0 +1,7 @@
+﻿C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Infrastructure\DatabaseSeeder.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Infrastructure\Database\INpgsqlCommandWrapper.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Infrastructure\Database\INpgsqlConnectionFactory.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Infrastructure\Database\INpgsqlConnectionWrapper.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Infrastructure\Database\INpgsqlTransactionWrapper.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Infrastructure\Repositories\ClienteReadRepository.cs
+C:\Users\LENOVO\Desktop\Challenge Intui\backend\clientes\src\Clientes\Clientes.Infrastructure\Repositories\ClienteWriteRepository.cs

@@ -1,0 +1,312 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1764424720000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "challenge-clientes"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.git\\sourcetreeconfig.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.vs\\clientes\\config\\applicationhost.config,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Api\\appsettings.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\tests\\Clientes.Tests\\obj\\Clientes.Tests.csproj.nuget.dgspec.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\tests\\Clientes.Tests\\obj\\project.assets.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Api\\obj\\Clientes.Api.csproj.nuget.dgspec.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Api\\obj\\project.assets.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Api\\Properties\\launchSettings.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Api\\obj\\Debug\\net8.0\\Clientes.Api.sourcelink.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Api\\obj\\Debug\\net8.0\\staticwebassets.build.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\run-sonar.ps1"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "6082AD7B-7272-4626-81E9-15456EC2A2C5,27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7,86C7F320-409A-4928-8EA8-1282E1C83A70,6178B8B4-27C3-4859-916C-2EE838B84D30,A04844DD-8878-4B82-9F6F-2F7C67F7BE05,3824ED08-2C0A-47E8-BEC6-B307A36B0FBA"
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.projectKey",
+      "value": "challenge-clientes:6082AD7B-7272-4626-81E9-15456EC2A2C5"
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.projectName",
+      "value": "Clientes.Domain"
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.projectBaseDir",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Domain"
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.working.directory",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.sources",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Domain\\Entities\\Cliente.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Domain\\obj\\Clientes.Domain.csproj.nuget.dgspec.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Domain\\obj\\project.assets.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Domain\\bin\\Debug\\net8.0\\Clientes.Domain.deps.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Domain\\obj\\Debug\\net8.0\\Clientes.Domain.sourcelink.json"
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "6082AD7B-7272-4626-81E9-15456EC2A2C5.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.projectKey",
+      "value": "challenge-clientes:27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7"
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.projectName",
+      "value": "Clientes.Application"
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.projectBaseDir",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application"
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.working.directory",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.sources",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\obj\\Clientes.Application.csproj.nuget.dgspec.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\obj\\project.assets.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\bin\\Debug\\net8.0\\Clientes.Application.deps.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\obj\\Debug\\net8.0\\Clientes.Application.sourcelink.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Commands\\CreateCliente\\CreateClienteCommand.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Commands\\CreateCliente\\CreateClienteCommandHandler.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommand.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommandHandler.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Commands\\UpdateCliente\\UpdateClienteCommand.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Commands\\UpdateCliente\\UpdateClienteCommandHandler.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Exceptions\\ClienteConflictException.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Exceptions\\ClienteNotFoundException.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Interfaces\\IClienteReadRepository.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Interfaces\\IClienteWriteRepository.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Queries\\GetAllClientes\\GetAllClientesQuery.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Queries\\GetAllClientes\\GetAllClientesQueryHandler.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Queries\\GetClienteById\\GetClienteByIdQuery.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Queries\\GetClienteById\\GetClienteByIdQueryHandler.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Queries\\SearchClientesByName\\SearchClientesByNameQuery.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application\\Clientes\\Queries\\SearchClientesByName\\SearchClientesByNameQueryHandler.cs"
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "27F2B4F6-9002-4B75-AB4B-E0DFE79C06D7.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.projectKey",
+      "value": "challenge-clientes:86C7F320-409A-4928-8EA8-1282E1C83A70"
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.projectName",
+      "value": "Clientes.Infrastructure"
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.projectBaseDir",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure"
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.working.directory",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\.sonar\\mod2"
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.sources",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\obj\\Clientes.Infrastructure.csproj.nuget.dgspec.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\obj\\project.assets.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\bin\\Debug\\net8.0\\Clientes.Infrastructure.deps.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\obj\\Debug\\net8.0\\Clientes.Infrastructure.sourcelink.json,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\DatabaseSeeder.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\Database\\INpgsqlCommandWrapper.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\Database\\INpgsqlConnectionFactory.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\Database\\INpgsqlConnectionWrapper.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\Database\\INpgsqlTransactionWrapper.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\Repositories\\ClienteReadRepository.cs,C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure\\Repositories\\ClienteWriteRepository.cs"
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\2"
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\2\\Issues.json"
+    },
+    {
+      "key": "86C7F320-409A-4928-8EA8-1282E1C83A70.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\2\\Telemetry.json"
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.projectKey",
+      "value": "challenge-clientes:6178B8B4-27C3-4859-916C-2EE838B84D30"
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.projectName",
+      "value": "Clientes.Domain"
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.projectBaseDir",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Domain"
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.working.directory",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\.sonar\\mod3"
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\4"
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\4\\Issues.json"
+    },
+    {
+      "key": "6178B8B4-27C3-4859-916C-2EE838B84D30.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\4\\Telemetry.json"
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.projectKey",
+      "value": "challenge-clientes:A04844DD-8878-4B82-9F6F-2F7C67F7BE05"
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.projectName",
+      "value": "Clientes.Application"
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.projectBaseDir",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Application"
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.working.directory",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\.sonar\\mod4"
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\5"
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\5\\Issues.json"
+    },
+    {
+      "key": "A04844DD-8878-4B82-9F6F-2F7C67F7BE05.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\5\\Telemetry.json"
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.projectKey",
+      "value": "challenge-clientes:3824ED08-2C0A-47E8-BEC6-B307A36B0FBA"
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.projectName",
+      "value": "Clientes.Infrastructure"
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.projectBaseDir",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\src\\Clientes\\Clientes.Infrastructure"
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.working.directory",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\.sonar\\mod5"
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\6"
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\6\\Issues.json"
+    },
+    {
+      "key": "3824ED08-2C0A-47E8-BEC6-B307A36B0FBA.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\LENOVO\\Desktop\\Challenge Intui\\backend\\clientes\\.sonarqube\\out\\6\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.cs.opencover.reportsPaths",
+      "value": "tests/Clientes.Tests/TestResults/coverage.opencover.xml"
+    },
+    {
+      "key": "sonar.coverage.exclusions",
+      "value": "**/*Tests/**/*,**/obj/**/*,**/bin/**/*,**/*.Designer.cs,**/Program.cs"
+    },
+    {
+      "key": "sonar.test.exclusions",
+      "value": "**/*Tests/**/*"
+    },
+    {
+      "key": "sonar.exclusions",
+      "value": "tests/Clientes.Tests/TestResults/coverage.opencover.xml"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

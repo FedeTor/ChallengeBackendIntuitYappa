@@ -1,0 +1,24 @@
+# Build artifacts
+bin/
+obj/
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE directories
+.vs/
+
+# Git
+.git
+.gitignore
+
+# Config / secrets
+.env
+**/appsettings.Development.json
+**/*Secrets.json
