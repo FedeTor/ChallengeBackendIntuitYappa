@@ -209,15 +209,6 @@ Cobertura de tests ≥ 80%.
    - PostgreSQL expone el puerto `${DB_PORT:-5432}` hacia el host.
    - La conexión a la base se inyecta mediante la variable `ConnectionStrings__DefaultConnection`, apuntando al servicio `db` dentro de la red interna de Docker.
    - El seeding inicial de la base se ejecuta automáticamente en el arranque gracias a `DatabaseSeeder`.
-
-### Hot reload para desarrollo
-
-Si se desea hot reload dentro de contenedores, puede usarse un override (por ejemplo `docker-compose.override.yml`) con:
-
-```yaml
-services:
-  api:
-    command: ["dotnet", "watch", "run", "--project", "src/Clientes/Clientes.Api/Clientes.Api.csproj", "--urls", "http://0.0.0.0:8080"]
     volumes:
       - ./src:/src/src
       - ~/.nuget/packages:/root/.nuget/packages:ro
